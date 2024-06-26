@@ -1,5 +1,7 @@
 # Ben-s-Pizza-Shop-Database-Project
 
+Looker Studio Visualization: https://lookerstudio.google.com/reporting/83a17ae6-30a0-4303-8965-41e212364d91
+
 Project Brief:
 Ben is opening a new pizza shop in his town, focusing on takeout and delivery services. Our project involves designing and building a custom relational database to store and generate all the necessary business data. This database will support the creation of dashboards to monitor business performance.
 Database Design:
